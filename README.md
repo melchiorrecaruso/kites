@@ -8,6 +8,10 @@ This is an archive for my self-built kites.
 &nbsp;&nbsp;&nbsp;&nbsp; 
 <kbd><img src="./edolito-3/edo-art-3.png" alt="drawing" width="250"/></kbd> 
  
+## **Suruga STYLE**
+
+<kbd><img src="./suruga/suruga.png" alt="drawing" width="250"/></kbd> 
+
 ## **Signatures**
 
 <kbd><img src="./sign.png" alt="drawing" width="100"/></kbd>
