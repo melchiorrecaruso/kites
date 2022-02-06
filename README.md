@@ -24,4 +24,8 @@ Suruga kite graphic is inspired to Malika Favre's works.
 
 This code is a tool for my own use. I release it publicly in case people find it useful. It is not however intended as a collaboration/Open Source project. As such I am unlikely to accept PRs, reply to issues, or take requests.
 
+## **License**
+
+[GNU General Public License v3.0](LICENSE)
+
 
