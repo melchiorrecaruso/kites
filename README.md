@@ -4,12 +4,13 @@ This is an archive for my self-built kites.
 
 ## **Edo-Lito STYLE**
 
-<img src="./edolito-2/edo-art-2.png" alt="drawing" width="250"/> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./edolito-3/edo-art-3.png" alt="drawing" width="250"/>
-
+<kbd><img src="./edolito-2/edo-art-2.png" alt="drawing" width="250"/></kbd> 
+&nbsp;&nbsp;&nbsp;&nbsp; 
+<kbd><img src="./edolito-3/edo-art-3.png" alt="drawing" width="250"/></kbd> 
+ 
 ## **Signatures**
 
-<img src="./sign.png" alt="drawing" width="100"/>
+<kbd><img src="./sign.png" alt="drawing" width="100"/></kbd>
 
 ## **Contributing**
 
