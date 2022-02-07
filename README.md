@@ -3,20 +3,19 @@
 This is an archive for my self-built kites.
 
 ## **Edo-Lito STYLE**
-Size 1000mm x 1500mm
+Sail size 1000mm x 1500mm
 
 <kbd><img src="./edolito-2/edo-art-2.png" alt="drawing" width="250"/></kbd> 
 &nbsp;&nbsp;&nbsp;&nbsp; 
 <kbd><img src="./edolito-3/edo-art-3.png" alt="drawing" width="250"/></kbd> 
  
 ## **Suruga STYLE**
-Size 1590mm x 1450mm
+Sail size 1590mm x 1450mm
 
 <kbd><img src="./suruga/suruga.png" alt="drawing" width="250"/></kbd>
 
 ## **Pipa STYLE**
-
-Size 258mm x 450mm
+Sail size 258mm x 450mm
 
 <kbd><img src="./bruhzilian/back.png" alt="drawing" width="250"/></kbd>
 
