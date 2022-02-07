@@ -15,7 +15,7 @@ Sail size 1590mm x 1450mm
 <kbd><img src="./suruga/suruga.png" alt="drawing" width="250"/></kbd>
 
 ## **Pipa STYLE**
-Sail size 258mm x 450mm
+Sail size 450mm x 258mm
 
 <kbd><img src="./bruhzilian/back.png" alt="drawing" width="250"/></kbd>
 
