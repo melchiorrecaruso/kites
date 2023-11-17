@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="kitemodeller.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="21" Y="13"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="src/kitesolver.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="50" Y="18"/>
+        <FoldState Value=" T3l10li"/>
+        <UsageCount Value="49"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="src/mainfrm.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="MainForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="204"/>
+        <CursorPos X="58" Y="106"/>
+        <UsageCount Value="49"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="src/previewfrm.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="PreviewForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="27" Y="8"/>
+        <UsageCount Value="34"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="mainfrm.pas"/>
+        <ComponentName Value="MainForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="MainFrm"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="194"/>
+        <CursorPos X="89" Y="221"/>
+        <UsageCount Value="199"/>
+      </Unit>
+      <Unit>
+        <Filename Value="kitesolver.pas"/>
+        <UnitName Value="KiteSolver"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="447"/>
+        <CursorPos X="25" Y="512"/>
+        <FoldState Value=" T3rH0R1b"/>
+        <UsageCount Value="199"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../vplot/src/vpmath.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="210"/>
+        <CursorPos Y="210"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/fpcsrc/3.0.4/rtl/objpas/classes/classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="4" Y="27"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/fpcsrc/3.0.4/rtl/inc/typshrdh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="39"/>
+        <CursorPos X="3" Y="62"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/fpcsrc/3.0.4/rtl/objpas/sysutils/sysstrh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="136"/>
+        <CursorPos X="10" Y="153"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/fpcsrc/3.0.4/rtl/objpas/sysutils/sysinth.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="50"/>
+        <CursorPos X="97" Y="78"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/fpcsrc/3.0.4/rtl/inc/mathh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="76"/>
+        <CursorPos X="14" Y="98"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/fpcsrc/3.0.4/packages/fcl-base/src/inifiles.pp"/>
+        <UnitName Value="IniFiles"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="152"/>
+        <CursorPos X="14" Y="174"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../lazarus/components/tachart/taanimatedsource.pas"/>
+        <UnitName Value="TAAnimatedSource"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="64"/>
+        <CursorPos X="30" Y="87"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../../FPC/3.2.0/source/rtl/objpas/math.pp"/>
+        <UnitName Value="Math"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="332"/>
+        <CursorPos X="10" Y="350"/>
+        <UsageCount Value="3"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../../FPC/3.2.0/source/rtl/objpas/classes/classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="838"/>
+        <CursorPos X="14" Y="855"/>
+        <UsageCount Value="4"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../Documents/GitHub/xy-plot/src/settingfrm.lfm"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="8"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../Documents/GitHub/xy-plot/src/settingfrm.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="56"/>
+        <CursorPos X="24" Y="58"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../Documents/GitHub/lazarus/lcl/valedit.pas"/>
+        <UnitName Value="ValEdit"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="170"/>
+        <CursorPos X="23" Y="173"/>
+        <UsageCount Value="5"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../Documents/GitHub/lazarus/lcl/grids.pas"/>
+        <UnitName Value="Grids"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1757"/>
+        <CursorPos X="15" Y="1774"/>
+        <UsageCount Value="7"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../../FPC/3.2.0/source/rtl/inc/varianth.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="485"/>
+        <CursorPos X="10" Y="503"/>
+        <UsageCount Value="6"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../../FPC/3.2.0/source/rtl/objpas/sysutils/sysinth.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="116"/>
+        <CursorPos X="90" Y="130"/>
+        <UsageCount Value="6"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../Documents/GitHub/lazarus/components/tachart/taseries.pas"/>
+        <UnitName Value="TASeries"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="221"/>
+        <CursorPos X="14" Y="240"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../../FPC/3.2.0/source/rtl/inc/objpash.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="189"/>
+        <CursorPos X="23" Y="206"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="src/mainfrm.lfm"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="19"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../../../FPC/3.2.2/source/rtl/objpas/math.pp"/>
+        <UnitName Value="Math"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="882"/>
+        <CursorPos X="18" Y="896"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../../../FPC/3.2.2/source/rtl/objpas/classes/classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="596"/>
+        <CursorPos X="3" Y="615"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../../../fpcupdeluxe-trunk/fpcsrc/rtl/inc/mathh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="108"/>
+        <CursorPos X="14" Y="123"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="src/ADim.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="37"/>
+        <CursorPos X="20" Y="53"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../ADimPas/adim.pas"/>
+        <UnitName Value="ADim"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="4157"/>
+        <CursorPos X="10" Y="4178"/>
+        <UsageCount Value="12"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../../../fpcupdeluxe-trunk/fpcsrc/rtl/objpas/math.pp"/>
+        <UnitName Value="Math"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="483"/>
+        <CursorPos X="74" Y="492"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="src/mainfrm.pas"/>
+        <Caret Line="174" Column="80" TopLine="158"/>
+      </Position>
+      <Position>
+        <Filename Value="kitemodeller.lpr"/>
+        <Caret Line="13" Column="21"/>
+      </Position>
+      <Position>
+        <Filename Value="src/mainfrm.pas"/>
+        <Caret Line="174" Column="84" TopLine="158"/>
+      </Position>
+      <Position>
+        <Filename Value="src/mainfrm.pas"/>
+        <Caret Line="181" Column="7" TopLine="163"/>
+      </Position>
+      <Position>
+        <Filename Value="src/mainfrm.pas"/>
+        <Caret Line="183" Column="68" TopLine="167"/>
+      </Position>
+      <Position>
+        <Filename Value="src/mainfrm.pas"/>
+        <Caret Line="185" Column="56" TopLine="169"/>
+      </Position>
+      <Position>
+        <Filename Value="src/mainfrm.pas"/>
+        <Caret Line="186" Column="73" TopLine="168"/>
+      </Position>
+      <Position>
+        <Filename Value="src/mainfrm.pas"/>
+        <Caret Line="191" Column="59" TopLine="176"/>
+      </Position>
+      <Position>
+        <Filename Value="src/mainfrm.pas"/>
+        <Caret Line="197" Column="62" TopLine="179"/>
+      </Position>
+      <Position>
+        <Filename Value="src/mainfrm.pas"/>
+        <Caret Line="199" Column="62" TopLine="182"/>
+      </Position>
+      <Position>
+        <Filename Value="src/mainfrm.pas"/>
+        <Caret Line="201" Column="62" TopLine="185"/>
+      </Position>
+      <Position>
+        <Filename Value="src/mainfrm.pas"/>
+        <Caret Line="203" Column="44" TopLine="185"/>
+      </Position>
+      <Position>
+        <Filename Value="src/mainfrm.pas"/>
+        <Caret Line="205" Column="66" TopLine="191"/>
+      </Position>
+      <Position>
+        <Filename Value="src/mainfrm.pas"/>
+        <Caret Line="204" Column="62" TopLine="187"/>
+      </Position>
+      <Position>
+        <Filename Value="src/mainfrm.pas"/>
+        <Caret Line="209" Column="72" TopLine="191"/>
+      </Position>
+      <Position>
+        <Filename Value="src/mainfrm.pas"/>
+        <Caret Line="214" Column="65" TopLine="196"/>
+      </Position>
+      <Position>
+        <Filename Value="src/mainfrm.pas"/>
+        <Caret Line="231" Column="66" TopLine="205"/>
+      </Position>
+      <Position>
+        <Filename Value="src/mainfrm.pas"/>
+        <Caret Line="234" Column="38" TopLine="214"/>
+      </Position>
+      <Position>
+        <Filename Value="src/mainfrm.pas"/>
+        <Caret Line="237" Column="59" TopLine="223"/>
+      </Position>
+      <Position>
+        <Filename Value="src/mainfrm.pas"/>
+        <Caret Line="182" Column="67" TopLine="175"/>
+      </Position>
+      <Position>
+        <Filename Value="src/mainfrm.pas"/>
+        <Caret Line="185" Column="61" TopLine="180"/>
+      </Position>
+      <Position>
+        <Filename Value="src/kitesolver.pas"/>
+        <Caret Line="334" Column="39" TopLine="319"/>
+      </Position>
+      <Position>
+        <Filename Value="src/kitesolver.pas"/>
+        <Caret Line="70" Column="19" TopLine="55"/>
+      </Position>
+      <Position>
+        <Filename Value="src/kitesolver.pas"/>
+        <Caret Line="263" Column="36" TopLine="252"/>
+      </Position>
+      <Position>
+        <Filename Value="src/kitesolver.pas"/>
+        <Caret Line="70" Column="19" TopLine="57"/>
+      </Position>
+      <Position>
+        <Filename Value="src/kitesolver.pas"/>
+        <Caret Line="344" Column="26" TopLine="319"/>
+      </Position>
+      <Position>
+        <Filename Value="src/kitesolver.pas"/>
+        <Caret Line="268" Column="108" TopLine="261"/>
+      </Position>
+      <Position>
+        <Filename Value="src/kitesolver.pas"/>
+        <Caret Line="379" Column="80" TopLine="370"/>
+      </Position>
+      <Position>
+        <Filename Value="src/kitesolver.pas"/>
+        <Caret Line="378" Column="80" TopLine="370"/>
+      </Position>
+      <Position>
+        <Filename Value="kitemodeller.lpr"/>
+        <Caret Line="13" Column="21"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

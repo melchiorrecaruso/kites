@@ -1,0 +1,17 @@
+Key,Unit,Value
+"[00]    Kite model",,EDOLITO
+"[01]    Heigth 1",mm,1500
+"[04]    Width 1",mm,1000
+"[07]    Rod 1 length",mm,2000
+"[08]    Rod 2 length",mm,1050
+"[10]    Rod 1 ro",g/m,"8.0 mm CF Tube (36.9 g/m)"
+"[11]    Rod 2 ro",g/m,"4.0 mm CF Tube (15.6 g/m)"
+"[13]    Sail ro",g/m2,"Spinnaker ""Icarex"" PC31 (31 g/m2)"
+"[14]    Tail length",m,0
+"[15]    Tail ro",g/m,0
+"[16]    B length",mm,5700
+"[17]    K length",mm,3200
+"[18]    Line length",m,400
+"[19]    Line ro",g/m,1.2
+"[20]    Air speed",km/h,10
+"[21]    Air ro",kg/m3,1.229
